@@ -65,6 +65,7 @@ Well, now that you’ve clarified and articulated the problem, documented your a
 ---
 
 For more information:
+- [nohello.net](https://nohello.net/en/) - When you do reach out, make sure you're resepecting people's time by including the question along with the greeting.
 - [How To Ask Questions The Smart Way](http://www.catb.org/~esr/faqs/smart-questions.html) - A much older version, developed separately, but very comprehensive that it stands today.
 
 ---
