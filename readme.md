@@ -2,11 +2,12 @@
 
 ## Table of Contents  
 - [IT Learning Paths](#it-learning-paths)
-- [Table of Contents](#table-of-contents)
-- [Why is this here?](#why-is-this-here)
-- [Why Follow These Pre-Built Guides?](#why-follow-these-pre-built-guides)
-- [Recommended Study Flow](#recommended-study-flow)
-- [Learning Paths](#learning-paths)
+  - [Table of Contents](#table-of-contents)
+  - [Why is this here?](#why-is-this-here)
+  - [Why Follow These Pre-Built Guides?](#why-follow-these-pre-built-guides)
+  - [Recommended Study Flow](#recommended-study-flow)
+    - [Learning Paths](#learning-paths)
+    - [Other advice](#other-advice)
 
 ---
 
@@ -46,3 +47,6 @@ graph TD
 
 ### Learning Paths
 - [Operations](./learning_paths/operations/operations.md)
+
+### Other advice
+- [How to ask a question](./built_in_content/geek_advice/how_to_ask_a_question.md)
