@@ -2,11 +2,11 @@
 
 ## Table of Contents  
 - [IT Learning Paths](#it-learning-paths)
-  - [Table of Contents](#table-of-contents)
-  - [Why is this here?](#why-is-this-here)
-  - [Why Follow These Pre-Built Guides?](#why-follow-these-pre-built-guides)
-  - [Recommended Study Flow](#recommended-study-flow)
-    - [Learning Paths](#learning-paths)
+- [Table of Contents](#table-of-contents)
+- [Why is this here?](#why-is-this-here)
+- [Why Follow These Pre-Built Guides?](#why-follow-these-pre-built-guides)
+- [Recommended Study Flow](#recommended-study-flow)
+- [Learning Paths](#learning-paths)
 
 ---
 
