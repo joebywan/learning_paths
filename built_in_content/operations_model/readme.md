@@ -1,21 +1,13 @@
 ```mermaid
-mindmap
-  root((mindmap))
-    1[Origins]
-      Long history
-      ::icon(fa fa-book)
-      Popularisation
-        British popular psychology author Tony Buzan
-    Research
-      On effectiveness<br/>and features
-      On Automatic creation
-        Uses
-            Creative techniques
-            Strategic planning
-            Argument mapping
-    Tools
-      Pen and paper
-      Mermaid
-    
-    click 1 href "./test.md" _blank
+---
+title: Infrastructure architecture
+---
+
+flowchart LR
+    subgraph design
+        repo1 --> repo2
+    end
+
+    click repo1 href "https://github.com/org/repo1" _blank
+    click repo2 href "./test.md" _blank
 ```
