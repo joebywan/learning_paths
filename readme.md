@@ -49,4 +49,5 @@ graph TD
 - [Operations](./learning_paths/operations/operations.md)
 
 ### Other advice
-- [How to ask a question](./built_in_content/geek_advice/how_to_ask_a_question.md)
+- [How to ask a question](./built_in_content/generic_advice/how_to_ask_a_question.md)
+
