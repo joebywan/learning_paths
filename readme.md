@@ -2,12 +2,13 @@
 
 ## Table of Contents  
 - [IT Learning Paths](#it-learning-paths)
-- [Table of Contents](#table-of-contents)
-- [Why is this here?](#why-is-this-here)
-- [Why Follow These Pre-Built Guides?](#why-follow-these-pre-built-guides)
-- [Recommended Study Flow](#recommended-study-flow)
-- [Learning Paths](#learning-paths)
-- [Other advice](#other-advice)
+  - [Table of Contents](#table-of-contents)
+  - [Why is this here?](#why-is-this-here)
+  - [Why Follow These Pre-Built Guides?](#why-follow-these-pre-built-guides)
+  - [Recommended Study Flow](#recommended-study-flow)
+    - [Learning Paths](#learning-paths)
+    - [Other advice](#other-advice)
+    - [Useful links](#useful-links)
 
 ---
 
@@ -50,3 +51,7 @@ graph TD
 
 ### Other advice
 - [How to ask a question](./built_in_content/geek_advice/how_to_ask_a_question.md)
+
+### Useful links
+- [Australian Qualifications Framework Grad levels](https://www.aqf.edu.au/framework/aqf-levels)
+- [Australian Skills Classification](https://www.jobsandskills.gov.au/data/australian-skills-classification)
